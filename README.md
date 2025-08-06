@@ -38,11 +38,11 @@
 
 ###
 
-<p align="left">En la actualidad<br><br>- 🔭 Desarrollador .Net<br>- 📚 Aprendiendo abp.io <br>- ⚡ En mi tiempo libre me gusta leer, escuchar música y conocer nuevos lugares.</p>
+<p align="left"> <br><br>- 🔭 Desarrollador .Net<br>- 📚 Aprendiendo abp.io <br>- ⚡ En mi tiempo libre me gusta leer, escuchar música y conocer nuevos lugares.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguaje y herramientas</h3>
 
 ###
 
