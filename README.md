@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Apasionada y dispuesta a adquirir nuevos conocimientos sobre tecnología<./h3>
+<h3 align="left">👩‍💻  Apasionada y dispuesta a adquirir nuevos conocimientos sobre tecnología.</h3>
 
 ###
 
